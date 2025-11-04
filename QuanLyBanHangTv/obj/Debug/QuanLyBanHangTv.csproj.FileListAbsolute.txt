@@ -1,0 +1,69 @@
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanTv.mdf
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanTv_log.ldf
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanHangTv.exe.config
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanHangTv.exe
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanHangTv.pdb
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\Guna.UI2.dll
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.csproj.AssemblyReference.cache
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTV.frmDangKy.resources
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmChiTietHoaDon.resources
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTV.frmDangNhap.resources
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmKhachHang.resources
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmNhanVien.resources
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmHang.resources
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmHDBan.resources
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmHSX.resources
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmMain.resources
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.Properties.Resources.resources
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTV.frmQuenMatKhau.resources
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.csproj.GenerateResource.cache
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.csproj.CoreCompileInputs.cache
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBa.F7F8C68F.Up2Date
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.exe
+E:\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.pdb
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanTv.mdf
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanTv_log.ldf
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanHangTv.exe.config
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanHangTv.exe
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanHangTv.pdb
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\Guna.UI2.dll
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.csproj.AssemblyReference.cache
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTV.frmDangKy.resources
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmChiTietHoaDon.resources
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTV.frmDangNhap.resources
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmKhachHang.resources
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmNhanVien.resources
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmHang.resources
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmHDBan.resources
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmHSX.resources
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmMain.resources
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.Properties.Resources.resources
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTV.frmQuenMatKhau.resources
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.csproj.GenerateResource.cache
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.csproj.CoreCompileInputs.cache
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBa.F7F8C68F.Up2Date
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.exe
+E:\DoAnDotNet\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanTv.mdf
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanTv_log.ldf
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanHangTv.exe.config
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanHangTv.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\QuanLyBanHangTv.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTV.frmDangKy.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmChiTietHoaDon.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTV.frmDangNhap.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmKhachHang.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmNhanVien.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmHang.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmHDBan.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmHSX.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.frmMain.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTV.frmQuenMatKhau.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBa.F7F8C68F.Up2Date
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\Man_DTH225698-Loc_DTH225686_DoAnDotNet\DoAn .Net\QuanLyBanHangTv\QuanLyBanHangTv\obj\Debug\QuanLyBanHangTv.pdb
